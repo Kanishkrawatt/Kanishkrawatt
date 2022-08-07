@@ -48,5 +48,5 @@
   <img title="SASS" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img title="VS Code" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     </p>
-![](https://komarev.com/ghpvc/?username=Kanishkrawatt&style=flat-square)
+![](https://hit.yhype.me/github/profile?user_id=97908874)
 <img src ="./bottomflow.svg" alt ="banner" />
