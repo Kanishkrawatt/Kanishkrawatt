@@ -3,7 +3,7 @@
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Kanishk rawat, Web Developer :computer:<br>
-  ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+  
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -48,5 +48,5 @@
   <img title="SASS" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img title="VS Code" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     </p>
-
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 <img src ="./bottomflow.svg" alt ="banner" />
