@@ -46,6 +46,7 @@
   <img title="Express.Js" alt="Express.Js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img title="SASS" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img title="Styled Components" alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+ <img title ="PHP" alt ="Php" src = "https://img.shields.io/badge/Php-FFB3B3?style=for-the-badge&logo=PHP&logoColor=white"/>
   <img title="NextJS" alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img title="VS Code" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     </p>
