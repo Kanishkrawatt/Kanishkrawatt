@@ -12,23 +12,23 @@
 <p align="left"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/C-B7D3DF?style=for-the-badge&logo=c&logoColor=white">
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/Cpp-CEE5D0?style=for-the-badge&logo=cpp&logoColor=white" />
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F2DF3A?style=for-the-badge&logo=JavaScript&logoColor=white" />
    </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-AFB4FF?style=for-the-badge&logo=Java&logoColor=white" />
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-8FE3CF?style=for-the-badge&logo=Python&logoColor=white">
  </a>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left" >
