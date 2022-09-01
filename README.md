@@ -15,11 +15,10 @@
     <img alt="C" src="https://img.shields.io/badge/C-B7D3DF?style=for-the-badge&logo=c&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/Cpp-CEE5D0?style=for-the-badge&logo=c_plus_plus&logoColor=white" />
+    <img alt="C++" src="https://img.shields.io/badge/Cpp-CEE5D0?style=for-the-badge&logo=c_plus_plus&logoColor=black" />
   </a> 
   &emsp;
-    <img alt="Java" src="https://img.shields.io/badge/Javascript-AFB4FF?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/Javascript-AFB4FF?style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
