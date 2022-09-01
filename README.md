@@ -19,8 +19,7 @@
     <img alt="C++" src="https://img.shields.io/badge/Cpp-CEE5D0?style=for-the-badge&logo=c_plus_plus&logoColor=white" />
   </a> 
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-AFB4FF?style=for-the-badge&logo=java&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/Javascript-AFB4FF?style=for-the-badge&logo=javascript&logoColor=white" />
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
