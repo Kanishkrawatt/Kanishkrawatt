@@ -25,5 +25,5 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-8FE3CF?style=for-the-badge&logo=Python&logoColor=white">
  </a>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-![Tools]("https://skills.thijs.gg/icons?i=html,css,js,mongodb,nodejs,react,firebase,git,express,sass,styledcomponents,ts,php,jquery,next&theme=dark")
+![Tools ](https://skills.thijs.gg/icons?i=html,css,js,mongodb,nodejs,react,firebase,git,express,sass,styledcomponents,ts,php,jquery,next&theme=dark)
 <img src ="./bottomflow.svg" alt ="banner" />
