@@ -13,3 +13,4 @@
 <img src="https://skills.thijs.gg/icons?i=html,css,js,mongodb,nodejs,react,firebase,&theme=dark"/>
 <img src="https://skills.thijs.gg/icons?i=git,express,sass,styledcomponents,ts,php,jquery,next&theme=dark"/>
 <img src ="./bottomflow.svg" alt ="banner" />
+
