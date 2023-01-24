@@ -12,5 +12,13 @@
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <img src="https://skills.thijs.gg/icons?i=html,css,js,mongodb,nodejs,react,firebase,figma&theme=dark"/>
 <img src="https://skills.thijs.gg/icons?i=git,express,sass,styledcomponents,ts,php,jquery,next&theme=dark"/>
+
 <img src ="./bottomflow.svg" alt ="banner" />
 
+
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/kanishkrawatt/count.svg" alt="vistor count" height="30" width="224" /></td>
+  </tr>
+</table>
