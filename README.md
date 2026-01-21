@@ -13,11 +13,3 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,bootstrap,css,sass,figma,firebase,git,github,html,js,ts,java,md,mysql,php,redux,styledcomponents,vscode,tailwind,python,react,vite,nextjs,gatsby,graphql,astro,mongodb,nodejs,expressjs,materialui&perline=12)](https://skillicons.dev)
 
 <img src ="./bottomflow.svg" alt ="banner" />
-
-
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/kanishkrawatt/count.svg" alt="vistor count" height="30" width="224" /></td>
-  </tr>
-</table>
